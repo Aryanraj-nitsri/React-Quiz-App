@@ -1,0 +1,100 @@
+.test_details{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+.test_details>span{
+    font-size: 1.8rem;
+}
+
+
+
+.question_title>h2{
+    font-size: 2.5rem;
+
+
+}
+.question_title{
+    margin-top: 4rem;
+    text-align: center;
+}
+.question_box{
+    margin-top: 3rem;
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    flex-direction: column;
+}
+.question_detail{
+    text-align: center;
+    font-size: 2rem;
+    width: 90%;
+    /* border: 2px solid red; */
+    background-color: rgb(216, 213, 213);
+    border-radius: 0.6rem;
+    padding: 3rem;
+}
+.buttons{
+    margin-top: 5rem;
+    /* display: grid; */
+    /* grid-template-columns: repeat(auto-fit,minmax(425px,1fr)); */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    width: 100%;
+}
+.optionalButton{
+    font-size: 2rem;
+    padding: 0.7rem;
+    border-radius: 0.5rem;
+    background: none;
+    width: 45%;
+}
+.quiz_button{
+    margin-top: 4rem;
+    display: flex;
+    gap: 4rem;
+
+}
+.quiz_button>button{
+    font-size: 2rem;
+    width: 45%;
+    padding: 0.7rem;
+
+}
+.quit{
+    background-color: red;
+    color: white;
+}
+.next{
+    background-color: green;
+    color: white;
+}
+.correctOne{
+    background:green;
+}
+.wrong{
+    background: red;
+}
+.timer_span{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.timer{
+    font-size: 3rem;
+    /* color: green; */
+}
+@media screen and (max-width:768px) {
+    
+    .buttons{
+        flex-direction: column;
+        flex-wrap: none;
+        align-items: center;
+    }
+    .optionalButton{
+        width: 90%;
+        font-size: 1.5rem;
+    }
+    
+}

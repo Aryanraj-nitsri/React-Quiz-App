@@ -1,0 +1,23 @@
+.result_container{
+width: 100vw;
+height: 80vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 3rem;
+}
+.result_header>h1{
+font-size: 3rem;
+}
+.result_button{
+    font-size: 2rem;
+    padding: 0.7rem;
+    background-color: black;
+    color: chartreuse;
+    border-radius: 0.5rem;
+}
+.result_button:hover{
+    color: white;
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.quiz_container{
+    width: 100vw;
+    height: 100vh;
+}
+.username{
+    display: flex;
+    margin-top: 1rem;
+    font-size: 2.3rem;
+    text-align: center;
+    justify-content: center;
+}
+.username>h2{
+    background-color: rgb(93, 106, 171);
+    color: white;
+    border-bottom: 3px solid black;
+    border-right:3px solid black ;
+}
+@media  screen and (max-width:768px) {
+    .username{
+        font-size: 1.3rem;
+    }
+}

@@ -1,0 +1,17 @@
+.error{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    width:90%;
+    font-size: 2.5rem;
+    background-color:red;
+    color: white;
+    padding: 0.6rem;
+    border-radius: 0.5rem;
+    text-transform: capitalize;
+}
+@media screen and (max-width:400px) {
+    .error{
+        font-size: 2rem;
+    }
+}

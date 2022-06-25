@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    scrollbar-width: thin;
+    overflow-x: hidden;
+   
+    
+}
+*::-webkit-scrollbar {
+    display: none;
+}
+
+
+html{
+    font-size: 10px;
+}

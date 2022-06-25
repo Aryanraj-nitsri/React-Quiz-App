@@ -52,6 +52,12 @@ this on any hoisting website.
 ![Screenshot (26)](https://user-images.githubusercontent.com/80038944/175774719-fc7a0257-5dff-4cef-a808-a5d776897116.png)
 ## quize page in pc
 
+
 ![Screenshot (27)](https://user-images.githubusercontent.com/80038944/175774881-7fab735d-fbca-4649-8e5f-c36e8952cff9.png)
 ## Result page in pc
 ![Screenshot (28)](https://user-images.githubusercontent.com/80038944/175774956-c4647af6-304e-40ba-aae9-a91651906c82.png)
+## above pages in mobile phone
+![Screenshot_2022-06-25-19-34-09-12_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/80038944/175777415-9b640b08-1391-4392-80ce-58bf09e60d0e.jpg)
+![Screenshot_2022-06-25-19-35-17-32_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/80038944/175777476-f1b8b59e-137b-47d4-baa8-ef3a034cf9d1.jpg)
+![Screenshot_2022-06-25-19-35-36-45_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/80038944/175777499-ae9bcb00-e20d-4970-99b4-ac865095c0b0.jpg)
+

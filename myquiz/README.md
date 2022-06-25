@@ -16,9 +16,7 @@ I have used above end points to get all questions of the Quiz.To get
 data from this api ,I have used axios .This api will give 10 questions
 of different category of different difficulty.
 
-## Authors
 
-- [Aryan Raj]("https://github.com/Aryanraj-nitsri")
 
 
 ## Demo
@@ -42,4 +40,18 @@ this on any hoisting website.
 
  - [Thanks to this youtube channel to learn React](https://www.youtube.com/c/Codevolution)
  - [Go through this website to learn to build this project](https://www.youtube.com/watch?v=dg7XmuLvsbs&t=165s)
+ 
+ ## Authors
 
+- [Aryan Raj]("https://github.com/Aryanraj-nitsri")
+
+
+#  Screenshot
+##  Homepage in pc
+
+![Screenshot (26)](https://user-images.githubusercontent.com/80038944/175774719-fc7a0257-5dff-4cef-a808-a5d776897116.png)
+## quize page in pc
+
+![Screenshot (27)](https://user-images.githubusercontent.com/80038944/175774881-7fab735d-fbca-4649-8e5f-c36e8952cff9.png)
+## Result page in pc
+![Screenshot (28)](https://user-images.githubusercontent.com/80038944/175774956-c4647af6-304e-40ba-aae9-a91651906c82.png)
